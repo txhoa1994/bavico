@@ -116,7 +116,7 @@ body {
     color: #001E6C;
     background: url(../img/button-border.svg) top center / cover no-repeat;
     display: inline-block;
-    padding: 26px 38px;
+    padding: 26px 36px;
 }
 
 .about-col-1 .intro-1 {
@@ -152,7 +152,7 @@ body {
     color: #001E6C;
     background: url(../img/button-border.svg) top center / cover no-repeat;
     display: inline-block;
-    padding: 26px 38px;
+    padding: 26px 36px;
 }
 
 .menu-desc .menu-desc-link {
@@ -255,7 +255,7 @@ body {
 
 
 #hiring .menu-desc-hd {
-    padding: 34px 38px;
+    padding: 34px 36px;
 }
 
 
@@ -266,7 +266,7 @@ body {
 
 .labor-item {
     color: #fff;
-    font-size: 26x;
+    font-size: 22px;
     letter-spacing: 4px;
     line-height: 2;
     text-shadow: 0 0 10px rgba(0, 0, 0, .8);
@@ -342,7 +342,7 @@ body {
 }
 
 .bvc-info .menu-desc-hd {
-    padding: 12px 38px;
+    padding: 12px 36px;
     margin-top: 0;
 }
 
