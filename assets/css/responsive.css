@@ -1,0 +1,127 @@
+@media (min-width: 1024px) {
+
+}
+/* Tablet */
+@media (min-width: 740px) and (max-width: 1023px) {
+    
+    .item-1-2 {
+        margin-top: 0;
+    }
+    .item-3-4 {
+        margin-top: 15%;
+    }
+    .item-5 {
+        margin-top: 50%;
+    }
+
+    .video-event-3 {
+        width: 100%;
+    }
+}
+/* Mobile */
+@media (max-width: 739px) {
+
+    .video-event-3 {
+        width: 100%;
+    }
+
+    .ml250 {
+        margin-left: 0;
+    }
+
+    #header {
+        display: none;
+    }
+
+    #header.open {
+        display: block;
+        background-color: #333;
+        animation: goRight ease 0.5s;
+    }
+
+    .menu-btn {
+        display: block;
+    }
+
+    #about {
+        display: block;
+    }
+
+    .about-col-2 .intro-2 {
+        margin: 40px 0;
+    }
+
+    .space-row-1 {
+        display: block;
+    }
+
+    .space-row-1 .space-logo {
+        padding-top: 20%;
+        background-size: cover;
+    }
+    
+    .menu-desc .menu-desc-hd {
+        margin-left: 0;
+    }
+
+    .menu-desc .menu-desc-link {
+        margin-left: 20%;
+        padding: 24px;
+    }
+
+    .menu-2-col .menu-decor {
+        padding-top: 56%;
+        z-index: -1;
+        margin: 0;
+        margin-left: -7%;
+    }
+
+    .menu-3-col {
+        display: block;
+    }
+
+    .item-1-2 {
+        margin-top: 10%;
+    }
+
+    .item-3 {
+        margin-top: 32px;
+    }
+
+    .item-5 {
+        margin: 16px;
+        padding: 100% 0 0;
+    }
+
+    .event-3 {
+        margin-top: 80px;
+    }
+
+    .labor-hd {
+        font-size: 20px;
+    }
+
+    .labor-desc {
+        line-height: 1.2;
+    }
+
+    .contact-ft {
+        display: block;
+    }
+
+    .modal-close {
+        font-size: 16px;
+    }
+    
+
+    @keyframes goRight {
+        from {
+            transform: translateX(-400px);
+            opacity: .2;
+        } to {
+            transform: translateX(0);
+            opacity: 1;
+        }
+    }
+
+}
