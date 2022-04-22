@@ -50,30 +50,11 @@
     .about-col-2 .intro-2 {
         margin: 40px 0;
     }
-
-    .space-row-1 {
-        display: block;
-    }
-
-    .space-row-1 .space-logo {
-        padding-top: 20%;
-        background-size: cover;
-    }
     
-    .menu-desc .menu-desc-hd {
-        margin-left: 0;
-    }
 
     .menu-desc .menu-desc-link {
         margin-left: 20%;
         padding: 24px;
-    }
-
-    .menu-2-col .menu-decor {
-        padding-top: 56%;
-        z-index: -1;
-        margin: 0;
-        margin-left: -7%;
     }
 
     .menu-3-col {
