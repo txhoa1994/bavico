@@ -114,9 +114,9 @@ body {
     font-size: 2em;
     margin-bottom: 16px;
     color: #001E6C;
-    background: url(../img/button-border.svg) top center / cover no-repeat;
+    background: url(../img/border-heading.jpg) top center / cover no-repeat;
     display: inline-block;
-    padding: 26px 30px;
+    padding: 26px 8px;
 }
 
 .about-col-1 .intro-1 {
@@ -150,9 +150,9 @@ body {
     font-size: 2em;
     margin-bottom: 16px;
     color: #001E6C;
-    background: url(../img/button-border.svg) top center / cover no-repeat;
+    background: url(../img/border-heading.jpg) top center / cover no-repeat;
     display: inline-block;
-    padding: 26px 36px;
+    padding: 26px 8px;
 }
 
 .menu-desc .menu-desc-link {
@@ -214,7 +214,7 @@ body {
 }
 
 .client .menu-desc-hd {
-    padding: 34px 72px;
+    padding: 24px 24px;
 }
 
 .client-1 {
@@ -255,7 +255,7 @@ body {
 
 
 #hiring .menu-desc-hd {
-    padding: 34px 36px;
+    padding: 33px 8px;
 }
 
 
@@ -341,7 +341,7 @@ body {
 }
 
 .bvc-info .menu-desc-hd {
-    padding: 12px 36px;
+    padding: 12px 20px;
     margin-top: 0;
 }
 
